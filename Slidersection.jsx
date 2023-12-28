@@ -8,7 +8,7 @@ const SliderSection = () => {
     <section className="slider_section long_section">
       <div id="customCarousel" className="carousel slide" data-ride="carousel">
         <div className="carousel-inner">
-          {/* Slide 1 */}
+        
           <div className="carousel-item active">
             <div className="container">
               <div className="row">
