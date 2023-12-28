@@ -40,7 +40,7 @@ const SliderSection = () => {
             </div>
           </div>
 
-          {/* Slide 2 */}
+        
           <div className="carousel-item">
             <div className="container">
               <div className="row">
@@ -72,7 +72,7 @@ const SliderSection = () => {
             </div>
           </div>
 
-          {/* Slide 3 */}
+      
           <div className="carousel-item">
             <div className="container">
               <div className="row">
