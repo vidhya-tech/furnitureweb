@@ -105,7 +105,6 @@ const SliderSection = () => {
           </div>
         </div>
 
-        {/* Carousel Indicators */}
         <ol className="carousel-indicators">
           <li data-target="#customCarousel" data-slide-to="0" className="active"></li>
           <li data-target="#customCarousel" data-slide-to="1"></li>
