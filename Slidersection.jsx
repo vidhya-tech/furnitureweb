@@ -12,7 +12,7 @@ const SliderSection = () => {
           <div className="carousel-item active">
             <div className="container">
               <div className="row">
-                <h1>hii</h1>
+                
                 <div className="col-md-5">
                   <div className="detail-box">
                     <h1>
