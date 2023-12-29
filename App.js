@@ -28,7 +28,7 @@ const App = () => {
     <>
       <Mynav/>
       <Header/>
-      <Clientsection/>
+      
       
       
 

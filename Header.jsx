@@ -4,7 +4,8 @@ import FurnitureSection from './Furnituresection';
 import Aboutsection from './Aboutsection';
 import SliderSection from './Slidersection';
 import Blog from './Blog';
-import Clientsection from './Clientsection';
+import ClientSection from './Clientsection';
+
 
 
 const Header = () => {
@@ -37,7 +38,10 @@ const Header = () => {
                <FurnitureSection/>
                <Aboutsection/>
                <Blog/>
-               
+               <ClientSection/>
+
+
+      
               </>
             }
           />
